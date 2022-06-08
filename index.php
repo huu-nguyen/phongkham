@@ -53,9 +53,6 @@ $baseUrl = Helper::getBaseUrl();
             case 'tuyen-dung':
                 include "tuyen-dung.php";
                 break;
-            case 'kinh-nghiem':
-                include "kinh-nghiem.php";
-                 break; 
             case 'chat-luong':
                 include "chat-luong.php";
                  break;
