@@ -12,10 +12,10 @@
         <li><a href="<?= $baseUrl . '?page=bac-si'?>">Bác Sĩ</a></li>
         <li><a href="<?= $baseUrl . '?page=co-so-vat-chat'?>">Cơ Sở Vật Chất</a></li>
         <li>
-            <a href="#">Thêm</a>
+            <a href="javascript:void(0)">Thêm</a>
             <ul class="subnav">
                 <li><a href="<?= $baseUrl . '?page=tuyen-dung'?>">Tuyển Dụng</a></li>
-                <li><a href="<?= $baseUrl . '?page=kinh-nghiem'?>">Kinh Nghiệm</a></li>
+<!--                <li><a href="--><?//= $baseUrl . '?page=kinh-nghiem'?><!--">Kinh Nghiệm</a></li>-->
                 <li><a href="<?= $baseUrl . '?page=chat-luong'?>">Chất Lượng</a></li>
             </ul>
         </li>
