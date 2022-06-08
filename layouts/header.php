@@ -15,7 +15,7 @@
             <a href="#">Thêm</a>
             <ul class="subnav">
                 <li><a href="<?= $baseUrl . '?page=tuyen-dung'?>">Tuyển Dụng</a></li>
-                <li><a href="<?= $baseUrl . '?page=kinh-nghiem'?>">Kinh Nghiệm</a></li>
+    
                 <li><a href="<?= $baseUrl . '?page=chat-luong'?>">Chất Lượng</a></li>
             </ul>
         </li>
