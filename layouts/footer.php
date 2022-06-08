@@ -32,16 +32,16 @@
     </div>
     <div class="social-list">
         <img src="assets/Kho_Anh/Doctor-amico.png" alt="bac-si" class="anh-lien-he">
-        <a href="">
+        <a href="javascript:void(0)">
             <img src="assets/Kho_Anh/twitter-256.png" alt="twitter" class="icon-social">
         </a>
-        <a href="">
+        <a href="javascript:void(0)">
             <img src="assets/Kho_Anh/tiktok-256.png" alt="twitter" class="icon-social">
         </a>
-        <a href="">
+        <a href="javascript:void(0)">
             <img src="assets/Kho_Anh/facebook-7-256.png" alt="twitter" class="icon-social">
         </a>
-        <a href="">
+        <a href="javascript:void(0)">
             <img src="assets/Kho_Anh/instagram-256.png" alt="twitter" class="icon-social">
         </a>
     </div>
