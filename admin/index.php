@@ -14,7 +14,8 @@ use helper\Helper;
     }
 
     $login_user = $dbAdmin->getInfoAdmin();
-    $list_lich_kham = $dbAdmin->getDsLichKhamByBacSyID();
+    $bacsy_id = $login_user['bacsy_id'];
+    $list_lich_kham = $dbAdmin->getDsLichKhamByBacSyID($bacsy_id);
 ?>
 
 <!DOCTYPE html>
